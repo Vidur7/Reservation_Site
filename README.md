@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-react,php,css,bootstrap,tailwind,Js,Py,html,sql
+react,php,css,bootstrap,tailwind,Js,Py,html,sql,sqlite,
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
